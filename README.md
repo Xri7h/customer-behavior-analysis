@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow, covering data l
 The project showcases practical skills in Python, SQL (PostgreSQL), and Power BI, along with clear data storytelling using reports and presentations.
 
 📂 Dataset
-Source: (Add source: Kaggle / Company data / Public dataset)
+Source: 
 Format: CSV
 Description:
 The dataset contains structured data related to (e.g., sales, customers, operations, finance, etc.).
