@@ -1,4 +1,4 @@
-# customer-behavior-analysis
+# CustomerBehaviorAnalysis.SQL
 This project demonstrates an end-to-end data analytics workflow, covering data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and business intelligence reporting. The goal is to extract meaningful insights from raw data and present them through an interactive Power BI dashboard and a concise report.
 
 
