@@ -12,7 +12,7 @@ Clear insights for data-driven decision-making
 
 
 
-📌 Key Skills Demonstrated
+ Skills
 
 Data cleaning and EDA
 SQL querying and database management
